@@ -1,0 +1,22 @@
+.movies {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+
+}
+
+.movieDetails{
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  margin: 2px;
+}
+
+.App{
+  display: flex;
+  width: 100%;
+}
+
+.img {
+  width: 100%;
+}
